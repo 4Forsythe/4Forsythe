@@ -46,9 +46,6 @@
 <div align="center">
   <h3>Contact me</h3>
   <div>
-    <a href="https://forsythe.vercel.app/contacts" target="_blank">
-      <img src="https://img.shields.io/badge/Site-181818?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site">
-    </a>
     <a href="https://t.me/forsyne" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-181818?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
